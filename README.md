@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm MAIGRET Raphael !</h1>
+<h3 align="center">A passionate scholar at {EPITECH}</h3>
 
 - 🔭 I’m currently working on my first open world game (using Unreal Engine)
 - 🌱 I’m currently learning C++ and C#
